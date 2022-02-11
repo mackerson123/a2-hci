@@ -5,6 +5,7 @@ to run the code first run
 
 then clone the repo, `cd` into the repo and run 
 `npm install`
+
 if necessary, run 
 `npm audit fix`
 
